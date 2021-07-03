@@ -17,3 +17,5 @@ are downloaded using https://google-webfonts-helper.herokuapp.com/fonts.
 
 Information on non-interactive use of raspi-config:
 https://raspberrypi.stackexchange.com/questions/28907/how-could-one-automate-the-raspbian-raspi-config-setup
+
+https://zitseng.com/archives/19766
